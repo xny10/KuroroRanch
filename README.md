@@ -9,6 +9,8 @@
 
 
 ```bash
+git clone https://github.com/Galkurta/KuroroRanch.git
+cd KuroroRanch
 pip install requests
 pip install colorama
 ```
